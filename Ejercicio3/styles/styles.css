@@ -1,0 +1,59 @@
+
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(50, 50, 50);
+  color: rgb(226, 226, 226);
+}
+
+.main-container {
+  padding: 20px 10%;
+}
+
+.article {
+  padding: 30px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
+
+.article > h2 {
+  margin-bottom: 60px;
+}
+
+.article img {
+  width: 200px;
+  height: 120px;
+  object-fit: contain;
+}
+
+.a-main {
+  margin-bottom: 130px;
+}
+
+.a-main > h1 {
+  margin-bottom: 40px;
+}
+
+#a-whatsapp {
+  background-color: rgba(114, 208, 122, 0.5);
+}
+
+#a-facebook {
+  background-color: rgba(77, 145, 212, 0.5);
+}
+
+#a-x {
+  background-color: rgba(4, 4, 4, 0.5);
+}
+
+#a-youtube {
+  background-color: rgba(165, 22, 22, 0.5);
+}
+
+#a-gmail {
+  background-color: rgba(191, 75, 18, 0.5);
+}
+
+
